@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixjoykind
-- 👀 I’m interested in game progamming
+- 👀 I’m interested in creating games
 - 🌱 I’m currently learning C++ and Game Development in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email - felixjoykind@gmail.com
